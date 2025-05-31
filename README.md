@@ -1,14 +1,23 @@
 # LiSuM Python Version
 
-This tool we have used to establish the digital twin of a real-world urban intersection in Germany, and showed in the paper
-If you use this tool in your research paper or project, please cite us as:
-
-
-The oringianl LiSuM has been written in Java: https://sumo.dlr.de/docs/Tools/LiSuM.html
-We reproduce it in Python based on following software and papers:
-1. LemgoRL: https://github.com/RL-INA/LemgoRL
-2. 
-3. 
+This tool has been used to establish the digital twin of a real-world urban intersection in Germany, as described in our paper. If you use this tool in your research paper or project, please cite us as follows:
+```bibtex
+@article{yourpaper2024,
+  author    = {Runhao Zhou, },
+  title     = {Your Paper Title},
+  journal   = {Journal Name},
+  year      = {2024},
+  volume    = {1},
+  number    = {1},
+  pages     = {1--10},
+  publisher = {Publisher}
+}
+```
+The original [LiSuM](https://sumo.dlr.de/docs/Tools/LiSuM.html) was written in Java. We have reproduced it in Python, based on the following software and papers:
+1. [LemgoRL](https://github.com/RL-INA/LemgoRL)
+2. Barthauer, M., & Friedrich, B. (2017). Connecting microscopic traffic simulation and LISA+ external signal control. Transportation Research Procedia, 27, 420-427.
+3. Barthauer, M., & Friedrich, B. (2017). External signal control: Integrating LISA+ into SUMO. SUMO 2017–Towards Simulation for Autonomous Mobility, 143.
+4. Bottazzi, M., Touko Tcheumadjeu, L. C., Trumpold, J., Erdmann, J., & Oertel, R. (2017). LiSuM: design and development of a middleware to couple virtual LISA+ TLS controller and SUMO simulation. SUMO 2017–Towards Simulation for Autonomous Mobility, 31, 179-192.
 
 VTU (Verkehrstechnische Untersuchung) file or z*_fg*-xml file
 Schleife
@@ -26,7 +35,7 @@ To **protect intellectual property rights**, we are also unable to provide the O
 If you have difficulties configuring LISA® SUMO configuration files, or if you are interested in how to interact with LiSuM_Python and your own signal control algorithm in SUMO simulation, we can offer limited but voluntary consulting support. **Please contact:** [secr_vpa@tu-dresden.de](mailto:secr_vpa@tu-dresden.de).
 
 ## Ackknowledgement
-This work is part of the [ABSOLUT II](https://absolut-project.com/) (Autonomous On-Demand Shuttles Providing Individual Public Transport Services for the Suburban Areasof Leipzig) project, which is supported by the Federal Minitry for Economic Affairs and Energy of Germany (German: *Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland*)
+This work is part of the [ABSOLUT II](https://absolut-project.com/) (*Autonomous On-Demand Shuttles Providing Individual Public Transport Services for the Suburban Areasof Leipzig*) project, which is supported by the Federal Minitry for Economic Affairs and Energy of Germany (German: *Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland*)
 We appreciate the consultation from Dr. Arthur Müller at Fraunhofer IOSB-INA.
 
 

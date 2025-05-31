@@ -1,4 +1,14 @@
-# LiSuM-Python
+# LiSuM Python Version
+
+This tool we have used to establish the digital twin of a real-world urban intersection in Germany, and showed in the paper
+If you use this tool in your research paper or project, please cite us as:
+
+
+The oringianl LiSuM has been written in Java: https://sumo.dlr.de/docs/Tools/LiSuM.html
+We reproduce it in Python based on following software and papers:
+1. LemgoRL: https://github.com/RL-INA/LemgoRL
+2. 
+3. 
 
 VTU (Verkehrstechnische Untersuchung) file or z*_fg*-xml file
 Schleife
@@ -14,5 +24,7 @@ Due to infrastructure security concerns, we **cannot use real intersection LISAÂ
 To **protect intellectual property rights**, we are also unable to provide the OmlFgServer. However, please note that the `LISA+ OmlFgServer.jar` is required. The `LISA+ OmlFgServer.jar` is a proprietary virtual controller server for traffic signals, available for purchase from **Schlothauer & Wauer** GmbH.
 
 If you have difficulties configuring LISAÂ® SUMO configuration files, or if you are interested in how to interact with LiSuM_Python and your own signal control algorithm in SUMO simulation, we can offer limited but voluntary consulting support. **Please contact:** [secr_vpa@tu-dresden.de](mailto:secr_vpa@tu-dresden.de).
+
+## :heart:
 
 

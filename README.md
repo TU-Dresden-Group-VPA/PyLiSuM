@@ -26,7 +26,7 @@ To **protect intellectual property rights**, we are also unable to provide the O
 If you have difficulties configuring LISA® SUMO configuration files, or if you are interested in how to interact with LiSuM_Python and your own signal control algorithm in SUMO simulation, we can offer limited but voluntary consulting support. **Please contact:** [secr_vpa@tu-dresden.de](mailto:secr_vpa@tu-dresden.de).
 
 ## Ackknowledgement
-This work is part of the ABSOLUT II project, which is supported by the German Federal Minitry of (German: )
+This work is part of the [ABSOLUT II](https://absolut-project.com/) (Autonomous On-Demand Shuttles Providing Individual Public Transport Services for the Suburban Areasof Leipzig) project, which is supported by the Federal Minitry for Economic Affairs and Energy of Germany (German: *Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland*)
 We appreciate the consultation from Dr. Arthur Müller at Fraunhofer IOSB-INA.
 
 

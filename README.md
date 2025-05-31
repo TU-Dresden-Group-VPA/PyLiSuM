@@ -33,7 +33,7 @@ This project is licensed under the [CC BY-NC 4.0 License](https://creativecommon
 
 本项目采用知识共享署名-非商业性使用 4.0 国际许可协议 [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/)。
 
-Dieses Projekt ist lizenziert unter einer Creative Commons Namensnennung-NichtKommerziell 4.0 International Lizenz [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
+Dieses Projekt ist lizenziert unter einer Creative Commons Namensnennung-Nicht kommerziell 4.0 International Lizenz [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ## Acknowledgement
 This work is part of the [ABSOLUT II](https://absolut-project.com/) project (*Autonomous On-Demand Shuttles Providing Individual Public Transport Services for the Suburban Areasof Leipzig*), which is supported by the Federal Minitry for Economic Affairs and Energy of Germany (German: *Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland*).

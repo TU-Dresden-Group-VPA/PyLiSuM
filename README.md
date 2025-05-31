@@ -7,7 +7,7 @@ Kontakt
 AP-Werte (Anwendungsparameter-Werte) Control parameter values
 SUMO
 
-## ⚠️ Important Notice: Restrictions on LISA Provisioning Files and OmlFgServer
+## ⚠️ Important Notice: Restrictions on LISA® Provisioning Files and OmlFgServer
 
 Due to infrastructure security concerns, we **cannot use real intersection LISA® provisioning files** (German: *LISA® Versorgungsdateien*) for demonstrations.
 

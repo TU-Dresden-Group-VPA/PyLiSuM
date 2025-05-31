@@ -19,13 +19,6 @@ The original [LiSuM](https://sumo.dlr.de/docs/Tools/LiSuM.html) was written in J
 3. Barthauer, M., & Friedrich, B. (2017). External signal control: Integrating LISA+ into SUMO. SUMO 2017–Towards Simulation for Autonomous Mobility, 143.
 4. Bottazzi, M., Touko Tcheumadjeu, L. C., Trumpold, J., Erdmann, J., & Oertel, R. (2017). LiSuM: design and development of a middleware to couple virtual LISA+ TLS controller and SUMO simulation. SUMO 2017–Towards Simulation for Autonomous Mobility, 31, 179-192.
 
-VTU (Verkehrstechnische Untersuchung) file or z*_fg*-xml file
-Schleife
-Taster
-Kontakt
-AP-Werte (Anwendungsparameter-Werte) Control parameter values
-SUMO
-
 ## ⚠️ Important Notice: Restrictions on LISA® Provisioning Files and OmlFgServer
 
 Due to infrastructure security concerns, we **cannot use real intersection LISA® provisioning files** (German: *LISA® Versorgungsdateien*) for demonstrations.

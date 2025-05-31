@@ -3,7 +3,7 @@
 This tool has been used to establish the digital twin of a real-world urban intersection in Germany, as described in our paper. If you use this tool in your research paper or project, please cite us as follows:
 ```bibtex
 @article{yourpaper2024,
-  author    = {Runhao Zhou, },
+  author    = {Runhao Zhou, Shuaiyu Chen},
   title     = {Your Paper Title},
   journal   = {Journal Name},
   year      = {2024},

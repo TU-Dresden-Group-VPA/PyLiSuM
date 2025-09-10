@@ -13,7 +13,7 @@ This tool has been used to establish the digital twin of a real-world urban inte
   publisher = {Publisher}
 }
 ```
-The original [LiSuM](https://sumo.dlr.de/docs/Tools/LiSuM.html) was written in Java. We have reproduced it in Python, based on the following software and papers:
+The original [LiSuM](https://sumo.dlr.de/docs/Tools/LiSuM.html) was written in Java. We have reimplemented it in Python and extended it with external control functionality based on the following software and papers:
 1. [LemgoRL](https://github.com/RL-INA/LemgoRL)
 2. Barthauer, M., & Friedrich, B. (2017). Connecting microscopic traffic simulation and LISA+ external signal control. Transportation Research Procedia, 27, 420-427.
 3. Barthauer, M., & Friedrich, B. (2017). External signal control: Integrating LISA+ into SUMO. SUMO 2017–Towards Simulation for Autonomous Mobility, 143.

@@ -1,4 +1,4 @@
-# LiSuM Python Version
+# PyLiSuM
 
 This tool has been used to establish the digital twin of a real-world urban intersection in Germany, as described in our paper. If you use this tool in your research paper or project, please cite us as follows:
 ```bibtex
